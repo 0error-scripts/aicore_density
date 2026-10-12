@@ -4,7 +4,7 @@ version '1.0.1'
 
 name 'aicore_density'
 description 'Population management'
-repository 'https://github.com/0error-scripts/aicore_density'
+repository 'https://github.com/aicore-fivem/aicore_density'
 version '1.0.1'
 
 client_scripts {
